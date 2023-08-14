@@ -1,5 +1,5 @@
 {
-  "name": "pwa",
+  "name": "ktpl/blogs",
   "author": "Yameen Machhar <yameen.machhar@krishtechnolabs.com>",
   "version": "0.0.0",
   "main": "src/index.js",
