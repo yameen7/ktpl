@@ -21,7 +21,7 @@ module.exports = targets => {
         routes.push({
           name: "package",
           pattern: "/package",
-          path: require.resolve("ktpl/blogs/src/Pages/Blog"),
+          path: require.resolve("./Pages/Blog"),
         });
         return routes;
       });
